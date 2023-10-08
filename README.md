@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="left"t >👩‍💻 About Me</h1>
+<h2 align="left"t >👩‍💻 About Me</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="left">🛠 Language and Tools</h1>
+<h2 align="left">🛠 Language and Tools</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h1 align="left">🔥 My Stats</h1>
+<h2 align="left">🔥 My Stats</h2>
 
 ###
 
