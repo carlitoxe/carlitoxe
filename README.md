@@ -64,8 +64,8 @@
 
 ###
 
-<div align="center">
-  Visit my portfolio if you want to see some of the projects that I done: [Portfolio](https://carlitoxe.github.io/)
+<div align="left">
+Visit my portfolio if you want to see some of the projects that I done: <a href="https://carlitoxe.github.io/" target="_blank">Portfolio</a>
 </div>
 
 ###
