@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Carlos Romero. I'm a software engineer specialized in web development with more than 4 years of experience. I enjoy creating cool solid web apps<br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I enjoy listening to music.</p>
+<p align="left">My name is Carlos Romero. I'm a software engineer specialized in web development with more than 4 years of experience. I enjoy creating cool solid web apps<br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning Angular.js<br>- ⚡ In my free time I enjoy listening to music.</p>
 
 ###
 
